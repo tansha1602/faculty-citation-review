@@ -1,0 +1,7 @@
+Author full names,Title,Year,DOI,EID,Link
+"Example, Dana (90000000001); Writer, X. (90000000101)",Self-citing follow-up study,2019,10.99999/c.001,2-s2.0-SAMPLE0001,
+"Sampleson, Yoav (90000000002); Writer, Y. (90000000102)",Co-author only paper,2020,10.99999/c.002,2-s2.0-SAMPLE0002,
+"Writer, X. (90000000101); Writer, Y. (90000000102)",Independent paper one,2020,10.99999/c.003,2-s2.0-SAMPLE0003,
+"Example, Dana (90000000999); Third, Z. (90000000103)",Homonym author paper,2021,10.99999/c.004,2-s2.0-SAMPLE0004,
+,Paper with no author data,2021,10.99999/c.005,2-s2.0-SAMPLE0005,
+"Example, D.; Fourth, Q.",Initials only paper,2022,,2-s2.0-SAMPLE0006,
